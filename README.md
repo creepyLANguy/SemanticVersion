@@ -1,4 +1,4 @@
-# 🏗️ SemanticVersion - A C# Struct for Versioning  
+# 🏗️ [SemanticVersion - A C# Struct for Versioning](https://github.com/creepyLANguy/SemanticVersion)  
 
 ## 📖 Overview  
 **SemanticVersion** is a lightweight **C# struct** that provides a robust way to handle **semantic versioning** (`Major.Minor.Patch`).  
@@ -72,4 +72,5 @@ If you've ever struggled with handling semantic versions in C#, this struct give
 
 ## 👀 Next Steps
 
-Want to improve it? Feel free to submit a PR or open an issue!
+Want to improve this project? 
+Feel free to [submit a PR](https://github.com/creepyLANguy/SemanticVersion/pulls) or [open an issue](https://github.com/creepyLANguy/SemanticVersion/issues)!
