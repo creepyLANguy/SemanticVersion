@@ -27,11 +27,11 @@ Console.WriteLine(version1 > new SemanticVersion("1.2.2")); // True
 ```csharp
 try 
 {
-    var invalidVersion = new SemanticVersion("1..2"); // Invalid input
+  var invalidVersion = new SemanticVersion("1..2"); // Invalid input
 } 
 catch (FormatException ex) 
 {
-    Console.WriteLine($"Error: {ex.Message}");
+  Console.WriteLine($"Error: {ex.Message}");
 }
 ```
 
